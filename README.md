@@ -1,1 +1,1 @@
-# tf-azure-vm
+# tf-aws-vm
